@@ -1,65 +1,43 @@
-# Rajbir Yadav
+markdown_content = """<h1 align="center">Hi there, I'm Rajbir Yadav 👋</h1>
+<h3 align="center">Self-Taught Python Developer & Cybersecurity Enthusiast</h3>
 
-**16** · Self-Taught Developer · Cybersecurity Learner  
-📍 India
-
----
-
-## About Me
-
-I build things with Python. No degrees, no certificates—just code, curiosity, and countless YouTube tutorials.  
-Currently diving into **cybersecurity**—learning to think like an attacker so I can defend like a pro.
+<p align="center">
+I am a 16-year-old developer with a deep passion for exploring how technology works. Driven by curiosity, I've learned programming entirely through hands-on practice, breaking things, and online resources like YouTube tutorials. I believe real-world problem solving speaks louder than formal certificates!
+</p>
 
 ---
 
-## Tech Stack
+## 👨‍💻 About Me
+- 🛡️ **Current Focus:** Deep diving into and practicing **Cybersecurity**.
+- 🐍 **Primary Language:** Building tools, scripts, and projects with **Python**.
+- 🎓 **Background:** 100% self-taught. 
+- 📫 **Contact:** [Insert your email or LinkedIn link here]
 
-| Category | Tools |
-|----------|-------|
-| Language | Python, Bash |
-| Python Libs | `socket`, `scapy`, `requests`, `flask`, `cryptography` |
-| Security Tools | Kali Linux, Nmap, Wireshark, Burp Suite |
-| Environment | Linux, Git, VirtualBox |
+## 🛠️ Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Cybersecurity" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
----
+## 🚀 Projects
+*(Update these placeholders with links to your actual repositories)*
+- 📁 **[Project Name 1]** - A Python script designed for [e.g., automation, network scanning, or security testing].
+- 📁 **[Project Name 2]** - [Brief description of what the project does].
+- 📁 **[Project Name 3]** - [Brief description of what the project does].
 
-## What's Here
+## 📊 Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=3776AB&icon_color=3776AB&text_color=000000" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <i>Note: Replace <code>YOUR-GITHUB-USERNAME</code> in the markdown code with your actual username to activate the stats card!</i>
+</p>
+"""
 
-All repositories are **Python scripts and tools** I built while learning:
+file_path = "/mnt/data/README.md"
+with open(file_path, "w", encoding="utf-8") as f:
+    f.write(markdown_content)
 
-- Network scanners
-- Encryption/decryption utilities  
-- Subdomain finders
-- Lightweight vulnerability testers
-
-> These are learning projects—not production code.
-
----
-
-## Currently Learning
-
-- Ethical Hacking & Penetration Testing  
-- OWASP Top 10 (SQLi, XSS, CSRF)  
-- TCP/IP, DNS, and networking fundamentals  
-- Automating security tasks with Python  
-
----
-
-## Connect
-
-- **Email:** rajbir.yadav@example.com  
-- **Twitter:** [@rajbir_dev](https://twitter.com/rajbir_dev)  
-- **LinkedIn:** [Rajbir Yadav](https://linkedin.com/in/rajbir-yadav)  
-
----
-
-## GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=rajbir-yadav&show_icons=true&theme=dark&hide_title=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajbir-yadav&layout=compact&theme=dark)
-
----
-
-> *"No certificates. Just code."*
-
-Thanks for stopping by. ⚡
+print(f"File saved successfully at {file_path}")
