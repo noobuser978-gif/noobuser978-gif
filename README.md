@@ -11,7 +11,7 @@ I am a 16-year-old developer with a deep passion for exploring how technology wo
 - 🛡️ **Current Focus:** Deep diving into and practicing **Cybersecurity**.
 - 🐍 **Primary Language:** Building tools, scripts, and projects with **Python**.
 - 🎓 **Background:** 100% self-taught. 
-- 📫 **Contact:** [Insert your email or LinkedIn link here]
+- 📫 **Contact:** [noobuser978@gmail.com]
 
 ## 🛠️ Tech Stack
 <p>
@@ -23,9 +23,8 @@ I am a 16-year-old developer with a deep passion for exploring how technology wo
 
 ## 🚀 Projects
 *(Update these placeholders with links to your actual repositories)*
-- 📁 **[Project Name 1]** - A Python script designed for [e.g., automation, network scanning, or security testing].
-- 📁 **[Project Name 2]** - [Brief description of what the project does].
-- 📁 **[Project Name 3]** - [Brief description of what the project does].
+- 📁 **[Youtube Video Downloader]** - A Python script designed for [e.g., automation, network scanning, or security testing].
+- 📁 **[C2-Based Keylogger]** - .
 
 ## 📊 Stats
 <p align="center">
