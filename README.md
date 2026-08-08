@@ -22,16 +22,16 @@ I am a 16-year-old developer with a deep passion for exploring how technology wo
 </p>
 
 ## 🚀 Projects
-*(Update these placeholders with links to your actual repositories)*
-- 📁 **[Youtube Video Downloader]** - A Python script designed for [e.g., automation, network scanning, or security testing].
-- 📁 **[C2-Based Keylogger]** - .
+- 📁 **[https://github.com/noobuser978-gif/Youtube-Video-Downloader]** - A lightweight, web-based YouTube downloader built with FastAPI and yt-dlp. Download videos and audio with a clean, modern interface..
+- 📁 **[https://github.com/noobuser978-gif/C2-Keylogger]** - A lightweight, cross-platform Command & Control (C2) system built with Python and FastAPI.
+The client (keylogger) sends keystrokes to the server and polls for remote commands..
 
 ## 📊 Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=3776AB&icon_color=3776AB&text_color=000000" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=noobuser978-gif&show_icons=true&theme=transparent&hide_border=true&title_color=3776AB&icon_color=3776AB&text_color=000000" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <i>Note: Replace <code>YOUR-GITHUB-USERNAME</code> in the markdown code with your actual username to activate the stats card!</i>
+  <i>Note: Replace <code>noobuser978-gif</code> in the markdown code with your actual username to activate the stats card!</i>
 </p>
 """
 
