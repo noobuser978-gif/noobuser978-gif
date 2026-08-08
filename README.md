@@ -31,12 +31,4 @@ The client (keylogger) sends keystrokes to the server and polls for remote comma
   <img src="https://github-readme-stats.vercel.app/api?username=noobuser978-gif&show_icons=true&theme=transparent&hide_border=true&title_color=3776AB&icon_color=3776AB&text_color=000000" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <i>Note: Replace <code>noobuser978-gif</code> in the markdown code with your actual username to activate the stats card!</i>
-</p>
-"""
 
-file_path = "/mnt/data/README.md"
-with open(file_path, "w", encoding="utf-8") as f:
-    f.write(markdown_content)
-
-print(f"File saved successfully at {file_path}")
