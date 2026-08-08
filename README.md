@@ -28,5 +28,5 @@
 
 ## 📊 Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=noobuser978-gif&show_icons=true&theme=transparent&hide_border=true&title_color=3776AB&icon_color=3776AB&text_color=ffffff" alt="Rajbir's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noobuser978-gif&theme=dark" alt="Rajbir's GitHub Streak" />
 </p>
